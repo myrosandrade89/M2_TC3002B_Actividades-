@@ -1,0 +1,8 @@
+myvenv/
+**/myvenv/
+env/
+**/env/
+venv/
+**/venv/
+*.csv
+**/*.csv
